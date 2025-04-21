@@ -1,6 +1,6 @@
 name: barcode_cleaner
 description: A Flutter package for cleaning and formatting barcodes with various options including removing leading zeros, limiting length, and filtering characters.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/YousefMohamed6/barcode_cleaner
 repository: https://github.com/YousefMohamed6/barcode_cleaner.git
 issue_tracker: https://github.com/YousefMohamed6/barcode_cleaner/issues

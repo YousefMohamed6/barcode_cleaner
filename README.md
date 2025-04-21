@@ -31,7 +31,7 @@ Add the following to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  barcode_cleaner: ^1.0.0
+  barcode_cleaner: <LATEST_VERSION>
 ```
 
 ## Usage
