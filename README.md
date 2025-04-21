@@ -97,4 +97,4 @@ MIT License
 
 ## Support
 
-If you encounter any issues or have questions, please file an issue on the [GitHub repository](https://github.com/yourusername/barcode_cleaner/issues).
+If you encounter any issues or have questions, please file an issue on the [GitHub repository](https://github.com/YousefMohamed6/barcode_cleaner/issues).
